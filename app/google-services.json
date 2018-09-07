@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "906804840215",
+    "firebase_url": "https://tourbuddy-c37df.firebaseio.com",
+    "project_id": "tourbuddy-c37df",
+    "storage_bucket": "tourbuddy-c37df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906804840215:android:8fc534cc340d7cf7",
+        "android_client_info": {
+          "package_name": "shubham.tourbuddy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "906804840215-71bq12cd59o4bs4f2e3q669jckfkhr2c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "shubham.tourbuddy",
+            "certificate_hash": "77d451111875ea6983e91489be52c2f3be17db61"
+          }
+        },
+        {
+          "client_id": "906804840215-h7r1ia4hh7suapb6fouk2rtalbucnsmk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "shubham.tourbuddy",
+            "certificate_hash": "f87d11450039a38e402db2d2a05aaeefc84cc967"
+          }
+        },
+        {
+          "client_id": "906804840215-in519tn8tt8gpp7bsadn77h8781i5rhi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYgQVW0sSz7Wau_n5ZBReNORC5OlkVCB4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "906804840215-in519tn8tt8gpp7bsadn77h8781i5rhi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
